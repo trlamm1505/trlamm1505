@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Top Workspace Header Banner -->
-  <img src="./assets/header-banner.png" width="100%" alt="Tran Quoc Lam Header Banner" />
+  <img src="./assets/header-banner-v2.png" width="100%" alt="Tran Quoc Lam Header Banner" />
 
   <br/><br/>
 
