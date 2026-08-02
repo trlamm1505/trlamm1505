@@ -1,12 +1,30 @@
 <div align="center">
-  <!-- Dynamic Tech Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:311b92&height=220&section=header&text=Tran%20Quoc%20Lam&fontSize=68&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Software%20Engineer&descSize=22&descAlignColor=a5b4fc&descAlign=62" width="100%" />
+  <!-- Top Workspace Header Banner -->
+  <img src="./assets/header-banner.png" width="100%" alt="Tran Quoc Lam Header Banner" />
+
+  <br/><br/>
+
+  <!-- Green Neon Highlight -->
+  <code style="color: #00ff66; font-size: 18px; font-weight: bold;">🚀 Full-Stack & Backend Software Engineer</code>
+
+  <br/><br/>
+
+  <!-- Main Welcome Heading -->
+  <h1>Hi, I'm Tran Quoc Lam 👋</h1>
+
+  <!-- Subtitle -->
+  <h3>Software Engineer | Web, Mobile & Backend Developer</h3>
+
+  <!-- Brief Intro Summary -->
+  <p align="center">
+    I build production-ready web applications, scalable backend services, real-time messaging systems, and cross-platform mobile apps.
+  </p>
 
   <br/>
 
   <!-- Animated Tech Typing SVG -->
   <a href="https://github.com/trlamm1505">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB;Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+NestJS+%7C+Flutter;Passionate+about+Building+Scalable+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=TypeScript+%7C+React+%7C+Next.js+%7C+NestJS+%7C+Flutter;Building+High-Performance+%26+Scalable+Apps;Open+for+Full-Stack+%26+Backend+Software+Engineer+Roles" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -24,6 +42,8 @@
 </div>
 
 <br/>
+
+---
 
 ## 🙋‍♂️ About Me
 
