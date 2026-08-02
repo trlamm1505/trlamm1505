@@ -4,8 +4,8 @@
 
   <br/><br/>
 
-  <!-- Green Neon Highlight -->
-  <code style="color: #00ff66; font-size: 18px; font-weight: bold;">🚀 Full-Stack & Backend Software Engineer</code>
+  <!-- Green Neon Experience / Tagline -->
+  <code style="color: #00ff66; font-size: 18px; font-weight: bold;">⚡ 2+ years of coding experience</code>
 
   <br/><br/>
 
