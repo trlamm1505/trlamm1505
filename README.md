@@ -24,7 +24,7 @@
 
   <!-- Animated Tech Typing SVG -->
   <a href="https://github.com/trlamm1505">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=TypeScript+%7C+React+%7C+Next.js+%7C+NestJS+%7C+Flutter;Building+High-Performance+%26+Scalable+Apps;Open+for+Full-Stack+%26+Backend+Software+Engineer+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=TypeScript+%7C+React+%7C+Next.js+%7C+NestJS+%7C+Flutter;Building+High-Performance+%26+Scalable+Apps;Open+for+Full-Stack+%26+Backend+Engineer+Roles" alt="Typing SVG" />
   </a>
 
   <br/><br/>
