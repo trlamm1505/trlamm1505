@@ -26,7 +26,7 @@
 
   <!-- Animated Tech Typing SVG -->
   <a href="https://github.com/trlamm1505">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=TypeScript+%7C+React+%7C+Next.js+%7C+NestJS+%7C+Flutter;Building+High-Performance+%26+Scalable+Apps;Open+for+Full-Stack+%26+Backend+Engineer+Roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=TypeScript+%7C+React+%7C+Next.js+%7C+NestJS+%7C+Flutter;Building+High-Performance+%26+Scalable+Apps;Open+for+Web%2C+Mobile+%26+Backend+Engineer+Roles" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -62,22 +62,70 @@ My experience includes:
 
 I am currently focused on **Full-Stack (Web & Mobile)** and **Backend Software Engineer** opportunities.
 
+<br/>
+
+### 📫 Connect with me:
+
+- 📬 **Email:** [tqlam150504@gmail.com](mailto:tqlam150504@gmail.com)
+- 💬 **Zalo:** [0854340045](https://zalo.me/0854340045)
+- 👤 **Facebook:** [Trần Quốc Lâm](https://www.facebook.com/Suduy.1505)
+- 📷 **Instagram:** [@trlamm1505__](https://www.instagram.com/trlamm1505__/)
+
 ---
 
 ## 🛠️ Languages & Technologies
 
-### Languages & Frameworks
+### Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,flutter,elasticsearch,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=ts,js,dart,html,css" />
 </a>
+
+`TypeScript` · `JavaScript` · `Dart` · `HTML5` · `CSS3`
 
 <br/>
 
-- **Languages:** TypeScript, JavaScript (ES6+)
-- **Front-End & Mobile:** React, Next.js, React Native, Flutter
-- **Back-End:** NestJS, Express.js, WebSocket, Socket.IO
-- **Database & Search:** Elasticsearch, MongoDB / PostgreSQL
-- **DevOps & Tools:** Docker, Git, GitHub, VS Code
+### Front-End & Mobile
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,redux,materialui,androidstudio" />
+</a>
+
+`React` · `Next.js` · `React Native` · `Flutter` · `BLoC` · `Riverpod` · `Provider` · `Dio` · `Axios` · `Redux Toolkit` · `TanStack Query` · `Tailwind CSS` · `Ant Design` · `Material UI` · `Shadcn UI`
+
+<br/>
+
+### Back-End
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma" />
+</a>
+
+`Node.js` · `NestJS` · `Express.js` · `Prisma` · `REST API` · `OpenAPI` · `JWT` · `OAuth2`
+
+<br/>
+
+### Real-Time, Messaging & Search
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=redis,elasticsearch,rabbitmq" />
+</a>
+
+`WebSocket` · `Socket.IO` · `Elasticsearch` · `Redis` · `RabbitMQ`
+
+<br/>
+
+### Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+</a>
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `Firebase` · `SQL`
+
+<br/>
+
+### DevOps & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,androidstudio,postman" />
+</a>
+
+`Docker` · `Git` · `GitHub` · `VS Code` · `Android Studio` · `Postman` · `TablePlus` · `Draw.io`
 
 ---
 
