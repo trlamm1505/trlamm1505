@@ -4,8 +4,10 @@
 
   <br/><br/>
 
-  <!-- Green Neon Experience / Tagline -->
-  <code style="color: #00ff66; font-size: 18px; font-weight: bold;">⚡ 2+ years of coding experience</code>
+  <!-- Green Neon Animated Typing Tagline -->
+  <a href="https://github.com/trlamm1505">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=3+%2B+years+of+coding+experience;Code+is+my+life" alt="Green Typing SVG" />
+  </a>
 
   <br/><br/>
 
