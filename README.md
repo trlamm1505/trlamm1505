@@ -122,22 +122,25 @@ I am currently focused on **Full-Stack (Web & Mobile)** and **Backend Software E
 
 ### DevOps & Tools
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,androidstudio,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,androidstudio,apple,postman" />
 </a>
 
-`Docker` · `Git` · `GitHub` · `VS Code` · `Android Studio` · `Postman` · `TablePlus` · `Draw.io`
+`Docker` · `Git` · `GitHub` · `VS Code` · `Cursor` · `Codex` · `Antigravity IDE` · `Android Studio` · `Xcode` · `Postman` · `TablePlus`
+
+---
+
+## 📜 Certifications
+
+- 🏆 **[Professional Front-End Developer](https://login.cybersoft.edu.vn/honors/?inf=eyJob1RlbiI6IlRy4bqnbiBRdeG7kWMgTMOibSIsInRlbkxvcCI6IkJvb3RjYW1wIDgzIiwidGVuTG9UcmluaCI6IlBST0ZFU1NJT05BRiBGUk9OVC1FTkQgREVWRUxPUEVSIiwiZGllbUN1b2lLaG9hIjo5LjEsImlzWHVhdFNhYyI6dHJ1ZSwibWFDaHVuZ05oYW4iOiJGRSIsImlzSW5DaHVuZ05oYW4iOmZhbHNlLCJtYVNvQ2h1bmdOaGFuIjoyNTM5LCJzb1RoYW5nSG9jIjoiNiIsIm5nYXlDYXBDaHVuZ05oYW4iOiIxMS8xMS8yMDI1IDM6MDA6MTEgQU0iLCJmdWxsTWFDaHVuZ05oYW4iOiJGRS8yMDI1LzIwMjUyNTM5IiwibWFUaG9uZ1RpbkhvY1RhcCI6NzI3NywiaXNCYW9WZUN1b2lLaG9hIjp0cnVlLCJtbCI6IjUzOCIsIm5nYXlIb2MiOiIzLzE0LzIwMjUgMTI6MDA6MDAgQU0ifQ==)** – **CyberSoft Academy**
+- 🏆 **[Professional Node JS Developer](https://login.cybersoft.edu.vn/honors/?inf=eyJob1RlbiI6IlRy4bqnbiBRdeG7kWMgTMOibSIsInRlbkxvcCI6Ik5vZGVqcyA1MyIsInRlbkxvVHJpbmgiOiJQUk9GRVNTSU9OQUwgTk9ERSBKUyBERVZFTE9QRVIiLCJkaWVtQ3VvaUtob2EiOjkuMSwiaXNYdWF0U2FjIjp0cnVlLCJtYUNodW5nTmhhbiI6Ik5FIiwiaXNJbkNodW5nTmhhbiI6ZmFsc2UsIm1hU29DaHVuZ05oYW4iOjI3OTAsInNvVGhhbmdIb2MiOiIzIiwibmdheUNhcENodW5nTmhhbiI6IjMvNC8yMDI2IDM6MDA6MTggQU0iLCJmdWxsTWFDaHVuZ05oYW4iOiJORS8yMDI2LzIwMjYyNzkwIiwibWFUaG9uZ1RpbkhvY1RhcCI6MTE0MzIsImlzQmFvVmVDdW9pS2hvYSI6ZmFsc2UsIm1sIjoiNjQxIiwibmdheUhvYyI6IjExLzEyLzIwMjUgMTI6MDA6MDAgQU0ifQ==)** – **CyberSoft Academy**
+- 🏆 **[Professional Flutter Developer](https://login.cybersoft.edu.vn/honors/?inf=eyJob1RlbiI6IlRy4bqnbiBRdeG7kWMgTMOibSIsInRlbkxvcCI6IkZsdXR0ZXIgMDUiLCJ0ZW5Mb1RyaW5oIjoiUFJPRkVTU0lPTkFMIEZMVVRURVIgREVWRUxPUEVSIiwiZGllbUN1b2lLaG9hIjo5LjEsImlzWHVhdFNhYyI6ZmFsc2UsIm1hQ2h1bmdOaGFuIjoiRkxVIiwiaXNJbkNodW5nTmhhbiI6ZmFsc2UsIm1hU29DaHVuZ05oYW4iOjAsInNvVGhhbmdIb2MiOiI0IiwibmdheUNhcENodW5nTmhhbiI6IjEvMS8wMDAxIDEyOjAwOjAwIEFNIiwibWFUaG9uZ1RpbkhvY1RhcCI6MTE0NzEsImlzQmFvVmVDdW9pS2hvYSI6ZmFsc2UsIm1sIjoiNjY2IiwibmdheUhvYyI6IjIvMjMvMjAyNiAxMjowMDowMCBBTSJ9)** – **CyberSoft Academy**
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trlamm1505&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trlamm1505&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  &nbsp;
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trlamm1505&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
