@@ -14,33 +14,41 @@
 
 <br/>
 
-## 👋 Giới thiệu về tôi
+## 🙋‍♂️ About Me
 
-Xin chào! Tôi là **Trần Quốc Lâm** (`trlamm1505`), một lập trình viên yêu thích phát triển ứng dụng Web và khám phá các công cụ công nghệ mới.
+I am a **Full-Stack Software Engineer** specializing in building modern **Web, Mobile, and Backend** applications using **TypeScript, React, Next.js, NestJS, React Native, and Flutter**.
 
-- 💻 **Định hướng:** Web Development / Front-End & Back-End
-- 📚 **Đang tập trung:** Học tập, nâng cao tư duy thuật toán và thực hành xây dựng sản phẩm thực tế
-- ⚡ **Phong cách làm việc:** Chủ động, kiên trì và luôn sẵn sàng học hỏi kỹ thuật mới
+My experience includes:
+
+- **Web & Mobile Development:** Building responsive web apps with React & Next.js, and cross-platform mobile apps with React Native and Flutter.
+- **Backend & APIs:** Designing robust backend services, scalable architectures, and REST APIs with NestJS and TypeScript.
+- **Real-Time Systems:** Developing high-performance real-time messaging and communication systems with WebSocket and Socket.IO.
+- **Search & Streaming:** Integrating search features with Elasticsearch and building live streaming / real-time response handling.
+- **DevOps & Deployment:** Containerizing and deploying applications efficiently using Docker.
+- **Product Delivery:** Supporting products through the full development lifecycle from concept to production.
+
+I am currently focused on **Full-Stack (Web & Mobile)** and **Backend Software Engineer** opportunities.
 
 ---
 
-## 🛠️ Ngôn ngữ & Công cụ kỹ thuật
+## 🛠️ Languages & Technologies
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,git,github,vscode" />
-  </a>
-</div>
+### Languages & Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,flutter,elasticsearch,docker,git,github,vscode" />
+</a>
 
 <br/>
 
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks & Libraries:** React, Node.js, Express
-- **Tools & Platforms:** Git, GitHub, VS Code
+- **Languages:** TypeScript, JavaScript (ES6+)
+- **Front-End & Mobile:** React, Next.js, React Native, Flutter
+- **Back-End:** NestJS, Express.js, WebSocket, Socket.IO
+- **Database & Search:** Elasticsearch, MongoDB / PostgreSQL
+- **DevOps & Tools:** Docker, Git, GitHub, VS Code
 
 ---
 
-## 📊 Thống kê GitHub của tôi
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=trlamm1505&show_icons=true&theme=tokyonight&hide_border=true" />
